@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="logo.jpg" alt="Xavfsiz Shahar - Logo" width="140" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+<img src="logo.jpg?v=2" alt="Xavfsiz Shahar - Logo" width="140" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
 # "Xavfsiz shahar" tizimlari rivojlantirish markazi
 ## O'zbekiston Respublikasi Ichki ishlar vazirligi

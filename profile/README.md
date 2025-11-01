@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="logo.jpg" alt="Safe City - Logo" width="140" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+<img src="logo.jpg?v=2" alt="Safe City - Logo" width="140" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 
 # Safe City Systems Development Center
 ## Ministry of Internal Affairs of the Republic of Uzbekistan
